@@ -1,0 +1,85 @@
+# Frosty shop | פרוסטי שופ — Generative Engine Optimization Map
+
+> A price comparison website focused on gaming products, helping gamers find the best deals on gaming gear, peripherals, and accessories. The platform is aimed at the gaming community and provides a centralized hub for comparing prices across different retailers.
+
+---
+
+## Pages
+
+### בית
+https://frosty-shop-70552910.zappy5.app
+חפשו והשוו מחירים בין עשרות חנויות לציוד גיימינג, אביזרים ופריפריאלים. מצאו את הדיל המשתלם ביותר עכשיו וחסכו בגדול על כל ציוד הגיימינג שלכם!
+
+### תכונות
+https://frosty-shop-70552910.zappy5.app/features
+הכירו את כלי ההשוואה החכמים שיעזרו לכם לתפוס את אביזרי הגיימינג במחיר הכי נמוך. התראות מחיר, היסטוריית מחירים ופילטרים מתקדמים שיעשו לכם סדר. התחילו לחסוך עוד היום!
+
+### אודות
+https://frosty-shop-70552910.zappy5.app/about
+אנחנו קהילת גיימרים שבנתה פלטפורמת השוואת מחירים כדי לעזור לכם למצוא ציוד גיימינג איכותי במחיר הוגן. הכירו את הסיפור, הערכים והמשימה שלנו להנגיש גיימינג לכולם.
+
+### צור קשר
+https://frosty-shop-70552910.zappy5.app/contact
+מצאתם מחיר מטורף או שיש לכם שאלה על השוואת מחירים לציוד גיימינג? צרו איתנו קשר ישיר. אנחנו זמינים לכל שאלה, הצעה או שיתוף פעולה. בואו נדבר!
+
+### Products
+https://frosty-shop-70552910.zappy5.app/products
+המוצרים שלנו - Frosty shop | פרוסטי שופ
+
+### Product Detail
+https://frosty-shop-70552910.zappy5.app/product/:slug
+פרטי המוצר - Frosty shop | פרוסטי שופ
+
+### Category
+https://frosty-shop-70552910.zappy5.app/category/:slug
+מוצרים - Frosty shop | פרוסטי שופ
+
+### תודה שפניתם | Frosty shop
+https://frosty-shop-70552910.zappy5.app/thank-you
+Frosty shop | פרוסטי שופ - תודה שפניתם | Frosty shop
+
+## Legal & Policy
+
+### Privacy Policy
+https://frosty-shop-70552910.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://frosty-shop-70552910.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://frosty-shop-70552910.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Frosty shop | פרוסטי שופ
+A price comparison website focused on gaming products, helping gamers find the best deals on gaming gear, peripherals, and accessories. The platform is aimed at the gaming community and provides a centralized hub for comparing prices across different retailers.
+
+## Target Audience
+- גיימרים
+- גיימרים כבדים
+- גיימרים מחפשי מציאות
+- חובבי סטרימינג
+
+## Industry
+Gaming E-commerce / Price Comparison
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://frosty-shop-70552910.zappy5.app/sitemap.xml
+- Robots: https://frosty-shop-70552910.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://frosty-shop-70552910.zappy5.app/llms-full.txt
+- Products (JSON): https://frosty-shop-70552910.zappy5.app/products.json
+- Products (Google Merchant RSS): https://frosty-shop-70552910.zappy5.app/product-feed.xml
